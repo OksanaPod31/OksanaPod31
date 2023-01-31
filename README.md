@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oksanapod31&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oksanapod31&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oksanapod31&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oksanapod31&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oksanapod31&theme=github_dark)
 <!--
 **OksanaPod31/OksanaPod31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
